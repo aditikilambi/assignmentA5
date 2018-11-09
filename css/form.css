@@ -1,0 +1,42 @@
+form {
+	padding-left: 20%;
+	background-color: #6E963B;
+	padding-top: 40px;
+	padding-bottom: 40px;
+}
+
+form p {
+	color: black;
+}
+
+textarea {
+	color: black;
+}
+
+#pic-upload {
+	float: right;
+	padding-right: 20%;
+}
+
+#eventName {
+	width: 50%;
+}
+
+#description {
+	width: 50%;
+	height: 100px;
+}
+
+#long-description {
+	width: 50%;
+	height: 200px;
+}
+
+#tags {
+	width: 50%;
+	height: 50px;
+}
+
+#submit {
+	color: black;
+}
